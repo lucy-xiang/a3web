@@ -1,1 +1,35 @@
+/* BEGIN java.html section, adjust as needed */
+/* customizes the before and after buttons on the java.html page */ 
+button{
+	border:4px solid lavender;
+	padding: 2px;
+	font-family: simplex;
+	font-weight: bold;
+	padding: 5px 15px;
+	margin: auto;
+}
 
+/* builds a container around the two buttons allowing to center them and give them padding */
+#container{
+	text-align: center;
+	padding: 10px;
+}
+
+/* determines both before and after button sizes to match one another */
+#buttonbefore{
+	width: 90px;
+}
+
+#buttonafter{
+	width: 90px;
+}
+
+/* determines map size on page with small border */
+#map{ 
+	height: 600px; 
+	width: 900px; 
+	margin: auto;
+	border: 5px solid darkslateblue;
+	border-radius: 8px;
+}
+/* END java.html section, adjust as needed */
