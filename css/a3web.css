@@ -9,6 +9,20 @@ button{
 	margin: auto;
 }
 
+/* div container adjusting indivudal images, tagged in the before and after Red Sea images */
+div.img{
+	border: 5px solid chocolate;
+	border-radius: 8px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 865px;
+	width: 520px;
+	
+}
+
 /* builds a container around the two buttons allowing to center them and give them padding */
 #container{
 	text-align: center;
