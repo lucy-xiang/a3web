@@ -10,7 +10,7 @@
 .w3-bar-block .w3-bar-item{width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0}
 .w3-button{width:100%;text-align:left;padding:8px 16px}
 
-
+h1 {color: green;}
 /* BEGIN java.html section, adjust as needed */
 /* customizes the before and after buttons on the java.html page */ 
 button{
