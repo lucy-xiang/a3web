@@ -3,6 +3,9 @@
 .w3-top,.w3-bottom{position:fixed;width:100%;z-index:1}.w3-top{top:0}.w3-bottom{bottom:0}
 .w3-bar .w3-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
 .w3-bar .w3-button{white-space:normal}
+.w3-white,.w3-hover-white:hover{color:#000!important;background-color:#fff!important}
+.w3-wide{letter-spacing:4px}
+.w3-card,.w3-card-2{box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
 
 /* BEGIN java.html section, adjust as needed */
 /* customizes the before and after buttons on the java.html page */ 
