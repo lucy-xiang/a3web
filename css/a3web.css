@@ -1,3 +1,9 @@
+/* NavBar Template for w3schools */
+.w3-hide-small{display:none!important}.w3-mobile{display:block;width:100%!important}.w3-bar-item.w3-mobile,.w3-dropdown-hover.w3-mobile,.w3-dropdown-click.w3-mobile{text-align:center}
+.w3-top,.w3-bottom{position:fixed;width:100%;z-index:1}.w3-top{top:0}.w3-bottom{bottom:0}
+.w3-bar .w3-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+.w3-bar .w3-button{white-space:normal}
+
 /* BEGIN java.html section, adjust as needed */
 /* customizes the before and after buttons on the java.html page */ 
 button{
