@@ -12,7 +12,6 @@ GEOM101 Assignment 3 Group 12.
 - Navbar: Lucy (Link to every page, Spacing of words)
 - < head > and header image: Kayla. Finding and formatting a header image. Week 12 
 - < footer > and footer directory: Grace. By end of week 12 
-- < body >: Alex
 ## Specific pages content and extra features: End of Week 13
 - Main page (each of us a section) 
 - Project page 1- Lucy 
