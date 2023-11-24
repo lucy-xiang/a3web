@@ -11,7 +11,8 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
- /* Header image from Kayla
+ /* Header image from Kayla - this needs to be fixed. Image currently not appearing on website but will have
+ a header image here 
  source of image: https://www.rawpixel.com/image/3297487/free-photo-image-morocco-dune-africa */
 .headerimage { 
 	background-image: url("../images/rollingsands.jpg");
