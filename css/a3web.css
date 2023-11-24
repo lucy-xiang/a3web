@@ -4,7 +4,7 @@
  a header image here 
  source of image: https://www.rawpixel.com/image/3297487/free-photo-image-morocco-dune-africa */
 .headerimage { 
-	background-image: url("/images/rollingsands.jpg");
+	background-image: url("../images/rollingsands.jpg");
 	background-size: cover;
 	margin: 0 auto;
 	background-repeat: no-repeat;
