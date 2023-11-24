@@ -30,7 +30,9 @@ Live map using leaflet, with multiple “fake” pin locations. Used on map page
 - FAQ and testimonials
 ## Meeting/Work Sessions
 - Thurs, November 23: Choosing, modifying, and finalizing template
+- Fri, November 24: Meeting with Shawn to discuss template
     - TO DO:
      - [ ] Adjust our css doc to override bootstrap to match our color scheme and overall theme.
      - [ ] Lucy to do navbar, Kayla to do header (fix image), Grace to do footer
-     - [ ] Remove the inline style in the html 
+     - [ ] Remove the inline style in the html
+     - [x] Fix comments
