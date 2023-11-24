@@ -17,9 +17,7 @@ GEOM101 Assignment 3 Group 12.
 - Project page 1- **Lucy**  
 - Project page 2- **Grace** 
 - Map page, incorporating JavaScript- ~~Alex~~ (Build multiple buttons to press using js, alternating before & after images of landscape. Used on FAQ page. Dec 2, 2023, end of Week 13. (Alexandros V.) 
-Live map using leaflet, with multiple “fake” pin locations. Used on map page. Dec 2, 2023, end of Week 13. Rotating text around designed logo using circletype.js. Could be used across all pages (bottom). Dec 2, 2023, end of Week 13. Kayla
-- Contact Us form (fill in boxes): **Kayla.** By Nov 30.  
-  - Fill in boxes for name, contact details and comment.  
+Live map using leaflet, with multiple “fake” pin locations. Used on map page. Dec 2, 2023, end of Week 13. Rotating text around designed logo using circletype.js. Could be used across all pages (bottom). Dec 2, 2023, end of Week 13. **Kayla**
 - FAQ & testimonial boxes (drop down windows or designing block elements for them): **Lucy**. Design and content by end of Week 13 (Dec 1) 
 - Team page - formatting the pictures and bios:  **Grace** by end of week 13
 ## Overview of Website Pages:  
