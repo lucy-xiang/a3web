@@ -18,6 +18,10 @@
 	background-image: url("../images/rollingsands.jpg");
 	background-size: cover;
 	margin: 0 auto;
+	background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
 
 } 
 /* end of Kayla */ 
